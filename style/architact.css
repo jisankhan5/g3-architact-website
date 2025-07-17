@@ -184,6 +184,25 @@
 .sponsors-company img{
     filter: grayscale(100%);
 }
+/* footer */
+.footerf{
+    background-color: rgba(255, 244, 231, 1);
+    text-align: center;
+    border-radius: 8px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+.foot{
+    font-size: 1.25rem;
+    font-weight: 400;
+    padding: 40px;
+}
+
+
+
+
+
 /* media quary */
     
 @media screen and (max-width:576px) {
